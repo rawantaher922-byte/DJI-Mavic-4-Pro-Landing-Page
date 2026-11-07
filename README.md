@@ -1,14 +1,10 @@
 # DJI-Mavic-4-Pro-Landing-Page
 
-A modern and responsive product landing page designed to showcase the DJI Mavic 4 Pro drone. The page presents product details, technical specifications, customer reviews, and related accessories in a clean and user-friendly layout.
-
-## 📌 Project Overview
-
 This project focuses on creating an e-commerce-style product landing page that highlights the features and capabilities of the DJI Mavic 4 Pro.
 
 It provides visitors with an overview of the product, a comparison with competing drones, customer feedback, and recommended accessories.
 
-## ✨ Features
+## Features
 
 - **Navigation Bar:** Easy navigation between different sections.
 - **Hero Section:** Product introduction with an image, discount, pricing, and purchase buttons.
@@ -17,14 +13,14 @@ It provides visitors with an overview of the product, a comparison with competin
 - **Related Products:** A selection of recommended accessories.
 - **Footer:** Additional navigation links and social media icons.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5 – Page structure and content.
 - CSS3 – Styling, layout, and visual design.
 - Google Fonts (Roboto) – Typography.
 - Font Awesome Icons – Visual icons and interface elements.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 DJI-Mavic-4-Pro/
@@ -49,7 +45,7 @@ DJI-Mavic-4-Pro/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the project locally:
 
@@ -57,7 +53,7 @@ To view the project locally:
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of this project is to practice front-end development skills by building a structured and visually appealing product landing page using HTML and CSS.
 
